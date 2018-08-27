@@ -2,7 +2,7 @@
 
 RFM Analysis with Python
 
-## Kullanım:
+## Usage:
 
 ```bash
 $ python RFM-analysis.py -i sample-orders.csv -o rfm-segments.csv -d "2018-04-01"
